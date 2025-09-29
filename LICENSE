@@ -1,3 +1,4 @@
+<<<<<<< HEAD
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -672,3 +673,61 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+=======
+EDUCATIONAL USE LICENSE
+
+Copyright (c) 2025 Mohammed Awad
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software for educational and learning purposes only, subject to the 
+following conditions:
+
+EDUCATIONAL USE ONLY:
+This software is provided for educational purposes only. The Software may be
+used for learning, teaching, academic research, and personal educational
+projects.
+
+RESTRICTIONS:
+1. COMMERCIAL USE PROHIBITED: The Software, in whole or in part, may NOT be
+   used for commercial purposes, sold, or distributed for profit.
+
+2. NO SELLING: You may NOT sell, license, or otherwise commercialize any part
+   of this Software or any derivative works based on this Software.
+
+3. NO REDISTRIBUTION FOR PROFIT: You may NOT redistribute this Software or
+   any part of it for commercial gain.
+
+4. ATTRIBUTION REQUIRED: Any use of this Software must include proper
+   attribution to the original author (Mohammed Awad).
+
+PERMITTED USES:
+- Educational learning and teaching
+- Academic research and study
+- Personal educational projects
+- Non-commercial portfolio demonstrations
+- Code review and analysis for learning purposes
+
+DISCLAIMER:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+For questions or permissions beyond educational use, please contact:
+Mohammed Awad
+Facebook: https://facebook.com/mohammed.3awad
+
+---
+
+نظام إدارة المصروفات - لأغراض تعليمية فقط
+حقوق الطبع والنشر © 2025 محمد عوض
+
+هذا البرنامج مخصص للأغراض التعليمية فقط. يُمنع بيع أو تسويق أي جزء من الكود
+أو النظام بالكامل. يُسمح بالاستخدام للتعلم والتدريس والمشاريع الأكاديمية فقط.
+
+للاستفسارات: https://facebook.com/mohammed.3awad
+>>>>>>> 0090ecd (initial commit)
